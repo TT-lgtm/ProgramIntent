@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">ProgramIntent</string>
+    <string name="app_name">Контактная книга</string>
+    <string name="phone_number">+7 (495) 123-45-67</string>
+    <string name="email_address">contact@example.com</string>
+    <string name="email_subject">Обращение</string>
+    <string name="office_label">Наш офис</string>
+    <string name="btn_call">Позвонить</string>
+    <string name="btn_email">Написать email</string>
+    <string name="btn_map">Показать офис на карте</string>
+    <string name="btn_share">Поделиться контактом</string>
+    <string name="no_app_found">Нет подходящего приложения</string>
+    <string name="share_title">Поделиться контактом через…</string>
+    <string name="share">Поделиться</string>
+    <string name="open_the_card">Открытие карты</string>
+    <string name="sending_email">Отправка email</string>
+    <string name="dialing_number">Набор номера</string>
+    <string name="contact_book">Контактная книга</string>
 </resources>
